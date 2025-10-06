@@ -1,0 +1,150 @@
+{
+  "aeo_summary": "Dwarika Grande Vila by Madhusudan Avas is a RERA-registered, new-launch plotted community in the Rajpur–Chungi belt of the Taj city. Early listings indicate residential land/plot offerings with a fitness-focused amenity core and phased development. Full inventory, sizes, and possession timelines will be disclosed by the promoter via UP RERA and official brochures.",
+  "meta": {
+    "project_id": "310422",
+    "project_url": "agra-residential-property/madhusudan-dwarika-grande-vila/310422/project",
+    "lat": 27.14314,
+    "lon": 78.039164
+  },
+  "sections": {
+    "who_is_it_for": "",
+    "location_connectivity": "Positioned in the south-central growth belt near Shamsabad Road, the site benefits from proximity to day-to-day conveniences and established residential catchments. Prospective buyers can expect drive-time access to schools, hospitals, retail high streets, and employment clusters along the Fatehabad–Shamsabad corridors, supporting both end-use and rental potential.",
+    "unit_mix_floorplans": "",
+    "amenities_lifestyle": "",
+    "pricing_payment_notes": "Pricing is typically released in phases for plotted townships. Expect booking amount, agreement milestone, and subsequent instalments aligned with development progress or a down-payment plan. Always budget for government taxes, stamp duty, registration, and society/maintenance float at handover.",
+    "construction_status_rera": "The development is a new launch with registration active on the UP RERA portal. Buyers should rely on the RERA dashboard for sanctioned plans, phase-wise timelines, and any updates on approvals, escrow, and quarterly progress reports provided by the promoter.",
+    "developer_profile_eeat": "",
+    "nearby_alternatives": "",
+    "faqs": []
+  },
+  "faqs": [
+    {
+      "q": "Is the project registered with UP RERA?",
+      "a": "Yes. The community is registered with UP RERA under Project Registration No. UPRERAPRJ420483. Verify details, sanctioned plans, and updates on the official RERA project page before booking.",
+      "citations": [
+        5,
+        4
+      ]
+    },
+    {
+      "q": "What is being sold—plots or apartments?",
+      "a": "Public listings indicate residential land/plots. Exact sizes, facing options, and premiums will be disclosed by the developer in the detailed brochure and RERA filings.",
+      "citations": [
+        3,
+        8
+      ]
+    },
+    {
+      "q": "Are amenities planned within the layout?",
+      "a": "An onsite gym is indicated in early information, with the full amenity stack to be detailed in the master plan and sales kit. Confirm specifics in the latest brochure and RERA documents.",
+      "citations": [
+        3,
+        8,
+        5
+      ]
+    },
+    {
+      "q": "What additional costs should I plan for beyond the base price?",
+      "a": "Budget for stamp duty, registration, GST if applicable, mutation/utility deposits, and society corpus/maintenance. Consult the UP Stamps & Registration portal or your conveyancer for current rates and calculations.",
+      "citations": [
+        9
+      ]
+    },
+    {
+      "q": "How do I verify approvals and phase timelines?",
+      "a": "Use the UP RERA project page to review sanctioned drawings, phase schedules, and any quarterly updates. Always cross-verify sales material with the regulator’s filings.",
+      "citations": [
+        5,
+        4
+      ]
+    }
+  ],
+  "schema_markup": {
+    "faqpage": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is the project registered with UP RERA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The community is registered with UP RERA under Project Registration No. UPRERAPRJ420483. Verify details, sanctioned plans, and updates on the official RERA project page before booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is being sold—plots or apartments?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Public listings indicate residential land/plots. Exact sizes, facing options, and premiums will be disclosed by the developer in the detailed brochure and RERA filings."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are amenities planned within the layout?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An onsite gym is indicated in early information, with the full amenity stack to be detailed in the master plan and sales kit. Confirm specifics in the latest brochure and RERA documents."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What additional costs should I plan for beyond the base price?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Budget for stamp duty, registration, GST if applicable, mutation/utility deposits, and society corpus/maintenance. Consult the UP Stamps & Registration portal or your conveyancer for current rates and calculations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I verify approvals and phase timelines?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Use the UP RERA project page to review sanctioned drawings, phase schedules, and any quarterly updates. Always cross-verify sales material with the regulator’s filings."
+          }
+        }
+      ]
+    },
+    "howto": {
+      "@context": "https://schema.org",
+      "@type": "HowTo",
+      "name": "How to plan a site visit and due diligence for a plotted community",
+      "description": "A step-by-step guide to evaluating access, on-ground pegs, utilities, and approvals before booking a plot.",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "name": "Confirm appointment and documents",
+          "text": "Call sales to fix a slot and request the latest sanctioned layout and master plan."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Navigate to site",
+          "text": "Use shared geo-coordinates and approach via the Shamsabad–Rajpur corridor to assess access."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Match pegs to layout",
+          "text": "On-site, reconcile plot pegs with the sanctioned drawing; note right-of-way widths."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Verify utilities and amenities",
+          "text": "Check planned tie-ins for power, water, sewerage and the location of amenities."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Cross-check on UP RERA",
+          "text": "Revisit the UP RERA page to validate approvals, timelines, and any updates."
+        }
+      ]
+    }
+  },
+  "citations": [
+    "https://www.99acres.com/madhusudan-dwarika-grande-vila-rajpur-agra-npxid-r400212",
+    "https://www.up-rera.in/verify",
+    "https://up-rera.in/Frm_View_Project_Details.aspx?id=17474"
+  ],
+  "project_id": "310422",
+  "combined_narrative": "# Madhusudan Dwarika Grande Vila — Rajpur Chungi, Agra\n\n## Location Connectivity\nPositioned in the south-central growth belt near Shamsabad Road, the site benefits from proximity to day-to-day conveniences and established residential catchments. Prospective buyers can expect drive-time access to schools, hospitals, retail high streets, and employment clusters along the Fatehabad–Shamsabad corridors, supporting both end-use and rental potential.\n\n## Pricing Payment Notes\nPricing is typically released in phases for plotted townships. Expect booking amount, agreement milestone, and subsequent instalments aligned with development progress or a down-payment plan. Always budget for government taxes, stamp duty, registration, and society/maintenance float at handover.\n\n## Construction Status Rera\nThe development is a new launch with registration active on the UP RERA portal. Buyers should rely on the RERA dashboard for sanctioned plans, phase-wise timelines, and any updates on approvals, escrow, and quarterly progress reports provided by the promoter."
+}

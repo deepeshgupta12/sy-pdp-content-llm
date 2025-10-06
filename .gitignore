@@ -1,0 +1,32 @@
+.DS_Store
+.vscode/
+.idea/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg
+*.egg-info/
+.eggs/
+.cache/
+.mypy_cache/
+.pytype/
+coverage.xml
+htmlcov/
+dist/
+build/
+.venv/
+.env
+.env.*
+*.log
+
+# ---- Project data / artifacts ----
+data/serp_cache/
+out/                 # generated JSON/HTML
+
+# Datacenter raw dumps are typically private — keep them out of git:
+data/raw/*.json
+
+# If you want to version a few public samples, put them under:
+# data/raw/_samples/   (this path is NOT ignored)
